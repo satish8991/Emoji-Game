@@ -1,0 +1,24 @@
+.navbar {
+  background-image: linear-gradient(to right, #6a59ff, #9796f0);
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.left-container {
+  display: flex;
+  align-items: center;
+  margin-left: 80px;
+}
+.heading {
+  color: #ffffff;
+  font-weight: 500;
+}
+.right-container {
+  display: flex;
+  align-items: center;
+  margin-right: 80px;
+}
+.para {
+  color: #ffffff;
+  margin-left: 20px;
+}
